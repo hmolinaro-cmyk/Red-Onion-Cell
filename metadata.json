@@ -1,0 +1,6 @@
+{
+  "name": "Red Onion Cell Lab",
+  "description": "An interactive 7th grade science virtual microscope lab simulating plasmolysis and osmosis in red onion cells exposed to fresh water and salt water.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
